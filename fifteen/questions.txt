@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. The dimensions are dxd (defined by DIM_MIN and DIM_MAX which are 3 and 9 respectively). This means the framework also allows 3x9.
+1. A two dimensional array is represented.
+2. Function greet is used to greet the player.
+3. I need to implement init(), draw(), move(), and won().
